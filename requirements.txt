@@ -1,0 +1,7 @@
+Setuptools
+Numpy
+Pandas
+Matplotlib
+Joblib
+streamlit
+Seaborn
