@@ -6,3 +6,4 @@ Joblib
 streamlit
 Seaborn
 Altair
+Scikit-learn
